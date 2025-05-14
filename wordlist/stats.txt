@@ -1,0 +1,5 @@
+wordlist-1.py
+wordlist-5.7k = 5,757 bytes (not true)
+wordlist-5.7k-guessable = 7,355 bytes (not true)
+
+wordlist-2.py
